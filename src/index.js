@@ -1,3 +1,1 @@
-import MicroCms from "./microcms";
-
-export default MicroCms;
+export { default as MicroCms } from './microcms';  
