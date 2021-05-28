@@ -1,6 +1,6 @@
 {
   "name": "@i-tanaka730/microcms-npm",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
