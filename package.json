@@ -1,12 +1,12 @@
 {
   "name": "@i-tanaka730/microcms-npm",
-  "version": "1.0.9",
-  "description": "",
+  "version": "1.1.4",
+  "description": "It is a service to access the data of microcms.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "start": "webpack serve",
     "build": "tsc",
+    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

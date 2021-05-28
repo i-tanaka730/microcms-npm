@@ -1,1 +1,1 @@
-export { default as MicroCms } from './microcms';  
+export { default as MicroCms } from './microcms';
