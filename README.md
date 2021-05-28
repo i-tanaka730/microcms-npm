@@ -6,8 +6,9 @@ It is a service to access the data of microcms.
 
 ## Requirement
 
-- TypeScript
 - Node.js
+- TypeScript
+- axios
 
 ## License
 [MIT](https://github.com/i-tanaka730/microcms-npm/blob/master/LICENSE)
